@@ -7,6 +7,7 @@
 python convert_to_m4a_lossless.py /path/to/your/music /path/to/output/folder
 ```
 > 将 /path/to/your/music 替换为你的音乐文件所在的文件夹路径。
+<br>
 > 将 /path/to/output/folder 替换为你想要保存 M4A 文件的文件夹路径。
     
 ### 示例:
